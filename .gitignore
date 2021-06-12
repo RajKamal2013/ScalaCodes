@@ -1,0 +1,10 @@
+
+.idea/misc.xml
+.idea/vcs.xml
+*.xml
+.idea/modules/ScalaCodes.iml
+*.class
+/.idea/
+/project/
+/target/
+/.bsp/
